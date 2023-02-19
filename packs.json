@@ -3,26 +3,26 @@
     "packs": [{
             "date": "23.02.14",
             "note": "Wynncraft version 2.0.2",
-            "1.12": "http://game-cdn.wynncraft.com/23.02.14/mc1.12-below.zip",
-            "1.13": "http://game-cdn.wynncraft.com/23.02.14/mc1.13-1.14.zip",
-            "1.15": "http://game-cdn.wynncraft.com/23.02.14/mc1.15-1.16.zip",
-            "1.17": "http://game-cdn.wynncraft.com/23.02.14/mc1.17.zip"
+            "1.12": "https://game-cdn.wynncraft.com/23.02.14/mc1.12-below.zip",
+            "1.13": "https://game-cdn.wynncraft.com/23.02.14/mc1.13-1.14.zip",
+            "1.15": "https://game-cdn.wynncraft.com/23.02.14/mc1.15-1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/23.02.14/mc1.17.zip"
         },
         {
             "date": "22.12.08",
             "note": "Wynncraft version 2.0.1 Hotfix 2 + Wynnter Update",
-            "1.12": "http://game-cdn.wynncraft.com/22.12.08/mc1.12-below.zip",
-            "1.13": "http://game-cdn.wynncraft.com/22.12.08/mc1.13-1.14.zip",
-            "1.15": "http://game-cdn.wynncraft.com/22.12.08/mc1.15-1.16.zip",
-            "1.17": "http://game-cdn.wynncraft.com/22.12.08/mc1.17.zip"
+            "1.12": "https://game-cdn.wynncraft.com/22.12.08/mc1.12-below.zip",
+            "1.13": "https://game-cdn.wynncraft.com/22.12.08/mc1.13-1.14.zip",
+            "1.15": "https://game-cdn.wynncraft.com/22.12.08/mc1.15-1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/22.12.08/mc1.17.zip"
         },
         {
             "date": "22.11.04",
             "note": "Wynncraft version 2.0.1 (?)",
-            "1.12": "http://game-cdn.wynncraft.com/22.11.04/mc1.12-below.zip",
-            "1.13": "http://game-cdn.wynncraft.com/22.11.04/mc1.13-1.14.zip",
-            "1.15": "http://game-cdn.wynncraft.com/22.11.04/mc1.15-1.16.zip",
-            "1.17": "http://game-cdn.wynncraft.com/22.11.04/mc1.17.zip"
+            "1.12": "https://game-cdn.wynncraft.com/22.11.04/mc1.12-below.zip",
+            "1.13": "https://game-cdn.wynncraft.com/22.11.04/mc1.13-1.14.zip",
+            "1.15": "https://game-cdn.wynncraft.com/22.11.04/mc1.15-1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/22.11.04/mc1.17.zip"
         }
     ]
 }
