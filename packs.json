@@ -1,6 +1,13 @@
 {
     "date_format": "yy.mm.dd",
     "packs": [{
+        "date": "23.03.23",
+            "note": "Wynncraft version 2.0.2 Hotfix 3 + Festival of Heroes",
+            "1.12": "https://game-cdn.wynncraft.com/23.03.23/mc1.12-below.zip",
+            "1.13": "https://game-cdn.wynncraft.com/23.03.23/mc1.13-1.14.zip",
+            "1.15": "https://game-cdn.wynncraft.com/23.03.23/mc1.15-1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/23.03.23/mc1.17.zip"
+        },
             "date": "23.02.14",
             "note": "Wynncraft version 2.0.2",
             "1.12": "https://game-cdn.wynncraft.com/23.02.14/mc1.12-below.zip",
