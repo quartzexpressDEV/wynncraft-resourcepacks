@@ -1,6 +1,17 @@
 {
-    "date_format": "yy.mm.dd",
-    "packs": [{
+    "packs": [
+        {
+            "date_format": "yy.dd.mm",
+            "comment": "why tf is this date format different",
+            "date": "23.09.08",
+            "note": "Wynncraft version 2.0.3 Hotfix 3",
+            "1.12": "https://game-cdn.wynncraft.com/23.09.08/mc1.12-below.zip",
+            "1.13": "https://game-cdn.wynncraft.com/23.09.08/mc1.13-1.14.zip",
+            "1.15": "https://game-cdn.wynncraft.com/23.09.08/mc1.15-1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/23.09.08/mc1.17.zip"
+        },
+        {
+            "date_format": "yy.mm.dd",
             "date": "23.07.12",
             "note": "Wynncraft version 2.0.3 Lootrun Update",
             "1.12": "https://game-cdn.wynncraft.com/23.07.12/mc1.12-below.zip",
@@ -9,7 +20,8 @@
             "1.17": "https://game-cdn.wynncraft.com/23.07.12/mc1.17.zip"
         },
         {
-        "date": "23.03.23",
+            "date_format": "yy.mm.dd",
+            "date": "23.03.23",
             "note": "Wynncraft version 2.0.2 Hotfix 3 + Festival of Heroes",
             "1.12": "https://game-cdn.wynncraft.com/23.03.23/mc1.12-below.zip",
             "1.13": "https://game-cdn.wynncraft.com/23.03.23/mc1.13-1.14.zip",
@@ -17,6 +29,7 @@
             "1.17": "https://game-cdn.wynncraft.com/23.03.23/mc1.17.zip"
         },
         {
+            "date_format": "yy.mm.dd",
             "date": "23.02.14",
             "note": "Wynncraft version 2.0.2",
             "1.12": "https://game-cdn.wynncraft.com/23.02.14/mc1.12-below.zip",
@@ -25,6 +38,7 @@
             "1.17": "https://game-cdn.wynncraft.com/23.02.14/mc1.17.zip"
         },
         {
+            "date_format": "yy.mm.dd",
             "date": "22.12.08",
             "note": "Wynncraft version 2.0.1 Hotfix 2 + Wynnter Update",
             "1.12": "https://game-cdn.wynncraft.com/22.12.08/mc1.12-below.zip",
@@ -33,6 +47,7 @@
             "1.17": "https://game-cdn.wynncraft.com/22.12.08/mc1.17.zip"
         },
         {
+            "date_format": "yy.mm.dd",
             "date": "22.11.04",
             "note": "Wynncraft version 2.0.1 (?)",
             "1.12": "https://game-cdn.wynncraft.com/22.11.04/mc1.12-below.zip",
