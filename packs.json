@@ -5,10 +5,10 @@
             "comment": "what are naming conventions anyway",
             "date": "23.09.11",
             "note": "Wynncraft version 2.0.4",
-            "1.12": "http://game-cdn.wynncraft.com/23.09.11/mc1.12-below.zip",
-            "1.13": "http://game-cdn.wynncraft.com/23.09.11/mc1.13-1.14.zip",
-            "1.15": "http://game-cdn.wynncraft.com/23.09.11/mc1.15-1.16.zip",
-            "1.17": "http://game-cdn.wynncraft.com/23.09.21/mc1.17v4.zip"
+            "1.12": "https://game-cdn.wynncraft.com/23.09.11/mc1.12-below.zip",
+            "1.13": "https://game-cdn.wynncraft.com/23.09.11/mc1.13-1.14.zip",
+            "1.15": "https://game-cdn.wynncraft.com/23.09.11/mc1.15-1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/23.09.21/mc1.17v4.zip"
         },
         {
             "date_format": "yy.dd.mm",
