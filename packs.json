@@ -2,6 +2,16 @@
     "packs": [
         {
             "date_format": "yy.mm.dd",
+            "comment": "this is getting ridiculous",
+            "date": "23.10.02",
+            "note": "Wynncraft version 2.0.4",
+            "1.12": "https://game-cdn.wynncraft.com/hb-12382-23.10.02/mc1.12-below.zip",
+            "1.13": "https://game-cdn.wynncraft.com/hb-12382-23.10.02/mc1.13-1.14.zip",
+            "1.15": "https://game-cdn.wynncraft.com/hb-12382-23.10.02/mc1.15-1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/hb-12382-23.10.02/mc1.17.zip"
+        },
+        {
+            "date_format": "yy.mm.dd",
             "comment": "what are naming conventions anyway",
             "date": "23.09.11",
             "note": "Wynncraft version 2.0.3",
