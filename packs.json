@@ -2,6 +2,15 @@
     "packs": [
         {
             "date_format": "yy.mm.dd",
+            "date": "23.11.23",
+            "note": "Wynncraft version 2.0.4 Black Friday?",
+            "1.12": "https://game-cdn.wynncraft.com/23.11.23/mc1.12-below.zip",
+            "1.13": "https://game-cdn.wynncraft.com/23.11.23/mc1.13-1.14.zip",
+            "1.15": "https://game-cdn.wynncraft.com/23.11.23/mc1.15-1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/23.11.23/mc1.17.zip"
+        },
+        {
+            "date_format": "yy.mm.dd",
             "date": "23.10.12",
             "note": "Wynncraft version 2.0.4 + Festival of the Spirits",
             "1.12": "https://game-cdn.wynncraft.com/23.10.12/mc1.12-below.zip",
