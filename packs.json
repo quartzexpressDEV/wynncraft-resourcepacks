@@ -2,6 +2,13 @@
     "packs": [
         {
             "date_format": "yy.mm.dd",
+            "date": "24.03.21",
+            "note": "Wynncraft version 2.0.4 Festival of Heroes",
+            "1.16": "https://game-cdn.wynncraft.com/24.03.21/mc1.16.zip",
+            "1.17": "https://game-cdn.wynncraft.com/24.03.21/mc1.17.zip"
+        },
+        {
+            "date_format": "yy.mm.dd",
             "date": "23.12.14",
             "note": "Wynncraft version 2.0.4 Blizzard Festival",
             "1.16": "https://game-cdn.wynncraft.com/23.12.14/mc1.16+.zip"
