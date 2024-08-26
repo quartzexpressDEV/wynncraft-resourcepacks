@@ -1,6 +1,12 @@
 {
     "packs": [
         {
+            "comment": "epic naming conventions, ty",
+            "note": "Wynncraft Rekindled World",
+            "1.16": "https://youtu.be/dQw4w9WgXcQ",
+            "1.17": "https://rp-cdn.wynncraft.com/PRODUCTION_73144e484c32f6ba6c55785def88bc726bfd9d52.zip"
+        },
+        {
             "date_format": "yy.mm.dd",
             "date": "24.06.12",
             "note": "Wynncraft version 2.1 ?? June 12th 2024",
