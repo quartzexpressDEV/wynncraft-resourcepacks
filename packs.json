@@ -1,6 +1,11 @@
 {
     "packs": [
         {
+            "note": "Wynncraft Rekindled World",
+            "1.16": "https://youtu.be/dQw4w9WgXcQ",
+            "1.17": "https://rp-cdn.wynncraft.com/PRODUCTION_50b959e3d971cfe8eb5d849946f62feb13387b43.zip"
+        },
+        {
             "comment": "epic naming conventions, ty",
             "note": "Wynncraft Rekindled World",
             "1.16": "https://youtu.be/dQw4w9WgXcQ",
